@@ -1,0 +1,1 @@
+Asteroid Runner has no access to private data and will never require such access in order to fully play the game.
